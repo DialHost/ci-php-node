@@ -1,2 +1,2 @@
 # ci-php-node
-Just a php7.3 node LTS repository
+Just a php7.4 node LTS repository
