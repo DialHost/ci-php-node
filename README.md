@@ -1,2 +1,2 @@
 # ci-php-node
-Just a php8.0 node LTS repository
+Just a php8.2 node LTS repository
