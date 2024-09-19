@@ -74,7 +74,7 @@ RUN command -v node
 RUN command -v npm
 
 # Other
-RUN mkdir ~/.ssh
+RUN mkdir -p ~/.ssh
 RUN touch ~/.ssh_config
 
 # Display versions installed
